@@ -24,3 +24,5 @@ How it looks
 ![Snapshot](https://github.com/bltvan/Operamini-Calendar/blob/master/snapshot.png)
 
 Run the file run_here.html after referencing the js to see the output.
+
+test jenkins
